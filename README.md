@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/88650559/209794739-fba58311-a1f3-424e-
 
 # Vedio Link
 
-Youtube vedio link: https://www.youtube.com/playlist?list=PLrsZIxkQAAZoGEOG8C0_7VVZWdmqamG8W
+Youtube video link: https://www.youtube.com/playlist?list=PLrsZIxkQAAZoGEOG8C0_7VVZWdmqamG8W
 
 # Presentation Link
 
